@@ -6,7 +6,7 @@ HTML
 CSS
 Javascript
 ```
-##FrameWork
+## FrameWork
 ```bash
 React
 ```
